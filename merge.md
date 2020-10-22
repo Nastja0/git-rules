@@ -3,4 +3,4 @@
 #### Участвуют три стороны: current, incoming и base
 - `git merge <commit>` — объединить текущую ветку с другой
 - `git mergetool` — разрешить имеющиеся конфликты
-- `git merge --abort` — отменить слияние
+- `git merge --abort` — отменить слияние 
